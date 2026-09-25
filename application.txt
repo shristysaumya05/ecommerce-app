@@ -42,3 +42,6 @@ Order History
 - Customers can view their previous orders.
 - Customers can review the details of completed orders.
 
+Delivery Management
+- Customers can view delivery information.
+- Delivery status is updated as orders progress.
