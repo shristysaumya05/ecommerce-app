@@ -17,6 +17,10 @@ Wishlist
 - Products can be added to a wishlist.
 - Wishlist items can be viewed separately.
 
+Wishlist Enhancement
+- Customers can remove products from their wishlist.
+- Customers can move wishlist products from the shopping cart directly to checkout.
+
 Customer Support
 - Customers can view support information.
 - Support requests can be submitted.
@@ -42,3 +46,6 @@ Order History
 - Customers can view their previous orders.
 - Customers can review the details of completed orders.
 
+Delivery Management
+- Customers can view delivery information.
+- Delivery status is updated as orders progress.
