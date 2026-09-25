@@ -82,3 +82,7 @@ Order Confirmation
 Order Tracking
 - Customers can track the current status of their orders.
 - Customers can view the expected delivery information.
+
+Appointment Management
+- Patients can view their upcoming appointments.
+- Patients can view appointment details.
