@@ -78,3 +78,7 @@ Customer Reviews
 Order Confirmation
 - Customers receive confirmation after placing an order.
 - The confirmation includes the order reference.
+
+Order Tracking
+- Customers can track the current status of their orders.
+- Customers can view the expected delivery information.
