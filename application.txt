@@ -62,3 +62,7 @@ Discount Management
 - Customers can apply promotional discounts.
 - Discount eligibility is validated before checkout.
 - Customers can view the discount applied to their order.
+
+Order Cancellation
+- Customers can cancel eligible orders.
+- Cancellation status is recorded for the order.
