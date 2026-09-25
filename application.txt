@@ -19,7 +19,7 @@ Wishlist
 
 Wishlist Enhancement
 - Customers can remove products from their wishlist.
-- Customers can move wishlist products to the shopping cart quickly.
+- Customers can move wishlist products from the shopping cart directly to checkout.
 
 Customer Support
 - Customers can view support information.
