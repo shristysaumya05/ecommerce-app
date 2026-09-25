@@ -70,3 +70,7 @@ Order Cancellation
 Search Analytics
 - Search activity can be recorded.
 - Search usage can be reviewed.
+
+Order Reports
+- Order reports can be generated.
+- Order information can be summarized for review.
