@@ -37,3 +37,8 @@ Order Management
 Customer Profile
 - Customers can view their profile information.
 - Customers can update their profile information.
+
+Order History
+- Customers can view their previous orders.
+- Customers can review the details of completed orders.
+
