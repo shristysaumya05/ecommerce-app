@@ -49,7 +49,3 @@ Order History
 Delivery Management
 - Customers can view delivery information.
 - Delivery status is updated as orders progress.
-
-Customer Loyalty
-- Customers can earn loyalty points.
-- Loyalty points can be used for future purchases.
