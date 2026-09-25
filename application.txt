@@ -70,3 +70,7 @@ Order Cancellation
 Order Reports
 - Order reports can be generated.
 - Order information can be summarized for review.
+
+Customer Reviews
+- Customers can submit reviews for purchased products.
+- Customers can view reviews submitted by other customers.
