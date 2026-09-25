@@ -49,3 +49,7 @@ Order History
 Delivery Management
 - Customers can view delivery information.
 - Delivery status is updated as orders progress.
+
+Payment Timeout Handling
+- Payment requests are monitored for timeout conditions.
+- Timed-out payments are marked for retry.
