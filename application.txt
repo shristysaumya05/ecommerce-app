@@ -33,3 +33,12 @@ Payment Processing
 Order Management
 - Customers can view their orders.
 - Customers can review previous order details.
+
+Customer Profile
+- Customers can view their profile information.
+- Customers can update their profile information.
+
+Order History
+- Customers can view their previous orders.
+- Customers can review the details of completed orders.
+
