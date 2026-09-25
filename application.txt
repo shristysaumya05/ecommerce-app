@@ -66,3 +66,7 @@ Discount Management
 Order Cancellation
 - Customers can cancel eligible orders.
 - Cancellation status is recorded for the order.
+
+Search Analytics
+- Search activity can be recorded.
+- Search usage can be reviewed.
