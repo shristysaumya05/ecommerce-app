@@ -17,6 +17,10 @@ Wishlist
 - Products can be added to a wishlist.
 - Wishlist items can be viewed separately.
 
+Wishlist Enhancement
+- Customers can remove products from their wishlist.
+- Customers can move wishlist products to the shopping cart quickly.
+
 Customer Support
 - Customers can view support information.
 - Support requests can be submitted.
