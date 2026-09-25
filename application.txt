@@ -57,3 +57,8 @@ Payment Timeout Handling
 Payment Timeout Hotfix
 - Timed-out payments are clearly identified.
 - Customers receive a retry option when payment processing times out.
+
+Discount Management
+- Customers can apply promotional discounts.
+- Discount eligibility is validated before checkout.
+- Customers can view the discount applied to their order.
